@@ -1,0 +1,13 @@
+ascii
+33-47=symbols
+48-57=number
+65-90=caps
+97-122=small
+
+
+
+password characteristics
+9-15 letters
+2 no 
+2 upper
+1 symbol
